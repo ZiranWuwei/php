@@ -1,0 +1,41 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.3); 
+    border-radius: 12px;
+}
+/* Estilos para etiquetas */
+label {
+    font-weight: bold;
+}
+
+/* Agrega más estilos según sea necesario */
+
+/* Opciones de colores de Bootstrap */
+.bg-primary {
+    background-color: #007bff !important;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Personaliza los estilos según tus necesidades */

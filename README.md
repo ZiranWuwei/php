@@ -31,6 +31,12 @@ deberán quedar en blanco y entre los combos debe existir relación Región->Com
 • Checkbox “Como se enteró de Nosotros”: Debe elegir al menos dos opciones.
 • Se debe validar la duplicación de votos por RUT.
 
+##Versión
+Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+Versión del cliente de base de datos: libmysql - mysqlnd 8.2.12
+extensión PHP: mysqli Documentación curl Documentación mbstring Documentación
+Versión de PHP: 8.2.12
+
 ## Requisitos para implementar el proyecto.
 
 - [XAMPP](https://www.apachefriends.org/index.html) instalado en tu máquina.
